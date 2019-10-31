@@ -2,12 +2,12 @@
 
 The following questions are covered:
 
-1) Create a Binary Tree
-2) PreOrder - Traversal (Recursive)
+1) Create a Binary Tree - TreeTraversalRecursive.java
+2) PreOrder - Traversal (Recursive) - TreeTraversalRecursive.java
 3) PreOrder - Traversal (Iterative)
-4) InOrder - Traversal (Recursive)
+4) InOrder - Traversal (Recursive) - TreeTraversalRecursive.java
 5) InOrder - Traversal (Iterative)
-6) PostOrder - Traversal (Recursive)
+6) PostOrder - Traversal (Recursive) - TreeTraversalRecursive.java
 7) PostOrder - Traversal (Iterative)
 8) BFS
 9) DFS
